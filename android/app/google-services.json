@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126896552019",
+    "project_id": "task-manger-fb182",
+    "storage_bucket": "task-manger-fb182.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126896552019:android:e8f93d61f115ee200deea6",
+        "android_client_info": {
+          "package_name": "com.example.task_manger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyeGBcxYXICwtEIUK3Qi-6ehtveh2mvPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
